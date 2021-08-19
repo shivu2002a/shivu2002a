@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shivu2002a
-- 👀 I’m interested in contributing to open source projects and 
-- 🌱 I’m currently learning a BE student in Bangalore Institute of Technology, Bangalore
-- 💞️ I’m looking to collaborate on projects on Java 
-- 📫 You can reach me at shivu.a.1945@gmai.com or https://www.linkedin.com/in/shivanagouda-agasimani-610103206/
+Hi, I am Shivanagouda.
+I am currently 1st year IT student in Bangalore Institute Of Technology, Bangalore
+I am efficient in Java and looking towards contributing to open source 
+You can reach me at shivu.a.1945@gmai.com or https://www.linkedin.com/in/shivanagouda-agasimani-610103206/
 
