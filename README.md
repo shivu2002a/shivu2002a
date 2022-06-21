@@ -4,12 +4,11 @@ This is Shivanagouda.
 
 📚I am currently a 2nd year IT student at Bangalore Institute Of Technology, Bangalore.
 
-I am efficient in Java and Data Structures and Algorithms. I have hands on experience with Competitive Programming through Hackerrank, LeetCode platforms.
-I have been learning Spring Framework along with Spring Boot and Security. 
-I am good with Web-Development. 
-I am eagerly looking forward on contributing to Open Source Projects.
+I am proficient in Java along with Data Structures and Algorithms. <br /> 
+I have been working on with **Spring Framework** along with **Spring Boot** developing **REST APIs** and **Microservices**
+I am good with Relational database and have worked with MySQL.
 
 Thank you. Have a good day!! 🤝
 
-You can reach me at shivu.a.1945@gmail.com or https://www.linkedin.com/in/shivanagouda-agasimani-610103206/
+You can reach me at [Gmail](shivu.a.1945@gmail.com) and [LinkedIn](https://www.linkedin.com/in/shivanagouda-agasimani-610103206/)
 
