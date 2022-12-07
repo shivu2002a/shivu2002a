@@ -2,7 +2,7 @@ Hey, 👋
 
 This is Shivanagouda.
 
-📚I am currently a 2nd year IT student at Bangalore Institute Of Technology, Bangalore.
+📚I am currently a 3rd year IT student at Bangalore Institute Of Technology, Bangalore.
 
 I am proficient in Java along with Data Structures and Algorithms. <br /> 
 I have been working on with **Spring Framework** along with **Spring Boot** developing **REST APIs** and **Microservices** <br /> 
