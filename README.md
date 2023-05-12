@@ -14,7 +14,7 @@ Currently, I'm learning Machine learning 🖥skill!!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivu2002a&theme=default&show_icons=true&count_private=true)
 
-Thank you. Have a good day!! 🤝
+### You can find all my links [here](https://linktr.ee/shiva_sa)
 
-You can reach me at [here](https://linktr.ee/shiva_sa)
+Thank you. Have a good day!! 🤝
 
