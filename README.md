@@ -4,7 +4,7 @@
 ## Intro
 😃 This is Shivanagouda. <br>
 📚 3rd year IT student at BIT, Bangalore. <br>
-💻 Currently into **Deep learning and Machine Learning** <br>
+💻 Currently into **Microservices and Distributed Systems** <br>
 🤝 All my **links** in [here](https://linktr.ee/shiva_sa) <br>
 Feel free to contact me regarding Tech
 
@@ -19,7 +19,7 @@ Feel free to contact me regarding Tech
 <div align="center">
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,vscode,javascript,python,mysql,mongodb,eclipse,postman,git,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,spring,vscode,javascript,python,mysql,mongodb,eclipse,postman,git,cassandra" />
 </a>
   
 </div>
