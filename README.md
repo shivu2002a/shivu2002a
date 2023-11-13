@@ -19,7 +19,7 @@ Feel free to contact me regarding Tech
 <div align="center">
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,vscode,javascript,python,mysql,mongodb,eclipse,postman,git,cassandra,docker,c,kafka" />
+  <img src="https://skillicons.dev/icons?i=java,spring,vscode,javascript,python,mysql,mongodb,eclipse,postman,git,cassandra,docker,c,kafka,maven" />
 </a>
   
 </div>
