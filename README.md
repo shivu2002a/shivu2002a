@@ -3,7 +3,7 @@
 
 ## Intro
 😃 This is Shivanagouda. <br>
-📚 Final year IT student at BIT, Bangalore. <br>
+📚 SOftware Engineer at Telstra. <br>
 💻 Currently into **Microservices and Distributed Systems** <br>
 🤝 All my **links** in [here](https://linktr.ee/shiva_sa) <br>
 Feel free to contact me regarding Tech
